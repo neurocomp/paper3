@@ -1,11 +1,5 @@
 # ngrok code
 ./ngrok authtoken 83XZ1ySFWageKGJ5LWJUt_ZDeaTc4ZAmp1CcFWPQKd
-# dependencies
-  {
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
-  }
   
   # git codes
   
