@@ -8,7 +8,7 @@
   git config --global user.name ”Rasoul Azizi”
   
   git clone https://ineuron:bavaria2000@gitlab.com/ineuron/topnews.git
-  
+  git clone https://neurocomp:Elpasocounty$1979@github.com/neurocomp/paper3.git
   
   git add .
   git commit -m "new commit"
