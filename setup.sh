@@ -16,7 +16,7 @@
   
   (( Username: neurocomp))
   
-  
+  git pull origin master
   
  # git merge
  git merge --abort
